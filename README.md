@@ -26,11 +26,11 @@ The purpose of this project is to provide an easily understandable implementatio
 
 ## Colab Link
 Access the Colab file for hands-on implementation of the code:  
-[Colab Link](https://colab.research.google.com/drive/1D3ADgmMBSMYxOuuWper7biw64zYy7Q98?usp=sharing)
+[Colab Link](https://colab.research.google.com/drive/1gcC_Yc3oys7hV5zkOwoPX9ohIFOcX4h4?usp=sharing)
 
 ## PPT Link
 View the PowerPoint presentation that summarizes the key concepts:  
-[PPT Link](https://www.canva.com/design/DAGToBfqE6M/1woUucXmu5nupEwY3lQtvQ/view?utm_content=DAGToBfqE6M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[PPT Link](https://www.canva.com/design/DAGU4F3APrI/Pctjw4SzrViutzj32UegrA/view?utm_content=DAGU4F3APrI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Contact
 For inquiries, collaboration opportunities, or further information, please feel free to reach out:
